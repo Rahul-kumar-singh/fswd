@@ -1,8 +1,7 @@
 // Write a program to print 5 to 15 numbers using For Loop
 
-let x = 5;
-while(x <= 15)
+
+for(let x = 5;x <= 15;x++)
 {
-    console(x);
-    x++;
+    console.log(x);
 }
